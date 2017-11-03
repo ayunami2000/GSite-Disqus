@@ -1,11 +1,7 @@
-## Integrate Disqus comments into your site, based on Google Sites
+## Integrate Disqus comments into your Google Sites page
 
-There is a common question among Google Sites users: *how can I add Disqus comments to my site, based on Google Sites?*
+There is a common question among many Google Sites users: *how can I add Disqus comments to my Google Sites page?*
 
-Here is the solution. See [How To Use](https://github.com/ayunami2000/GSite-Disqus/wiki/How-To-Use) page in Wiki.
+[Here](https://ayunami2000.github.io/GSite-Disqus/) is the solution.
 
 ----
-## По-русски (In Russian):
-В интернете часто задают вопрос: *как добавить комментарии Disqus к моему сайту, сделанному в Google Sites?*
-
-А это готовое решение. Читай [как использовать](https://github.com/ayunami2000/GSite-Disqus/wiki/How-To-Use-(Rus)) в Wiki.
